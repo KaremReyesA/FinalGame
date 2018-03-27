@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" source="Tileset1.tsx"/>
+ <tileset firstgid="46" source="Tileset2.tsx"/>
+ <tileset firstgid="91" source="Tileset3.tsx"/>
+ <layer name="Tile Layer 4" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1UsKwjAUBdBM3Y6/iRFngp+RnwW4/02YYopBDFWoddBz4BL60kDgUhoC8I1dyr54PqQc/3SXsbm9mZ1SzimznEvKdchLjdi8Ml+kxJxl5Z1pePRFf9bh+R1sinlXH00Xq7xPf2KRppu2k64+yn36E4u1yfbDc/r4jfiS2r+iNcmrPgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGNId9/kNbQ==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztziEKACAUREFPqjfw/tFiENNHFBVm4LUNmxKvqVMAP8u3DwAsyEOcU3rRXWQLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7NN+ZBQw=
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt10kKwkAQQNF2BhUcNupGCC6c7389C0kwxCgIakDfg09IU4GCXqWVUhpV6qZ7ragdTfI6D+b4nmG63dm44V3+QRZtml6Cq310iE7R+cFMlj/dWfOK+zqm53cGv2Tw4vy68t571yJcTaN+NC+dzfKzurbRLp9bRMuvbfofiv+JVelsWTqvq/o9AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB82gX7twRd
+  </data>
+ </layer>
+ <layer name="Tile Layer 5" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0SEOACAMA8B9FdT+/wI8AhwbyZ1rapo04iwvPW/5o9bYsj/6m9UDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPjOAv3YAfw=
+  </data>
+ </layer>
+ <layer name="Tile Layer 3" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt08EKwjAMBuC8p1NkIoq+/30DOyYlooe69fB9kENLDuEPicidqgJWh7mGUse3/9s+45C4VO9lZ7RV53z90Hf/9yDEOX7POet7tBuFIst5jNfdPL/0sR3598U+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADoxQTt6AoE
+  </data>
+ </layer>
+</map>
